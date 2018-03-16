@@ -32,5 +32,8 @@ class LatestMovieReviewsContainer extends Component {
   }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5a741dbb82c3e14ee20f70e112f393f7fa8ae298
 export default LatestMovieReviewsContainer;
